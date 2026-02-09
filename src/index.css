@@ -1,0 +1,13 @@
+/*here imports the font you want*/
+
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.app{
+  min-height: 100vh;
+  display: grid;
+
+}
